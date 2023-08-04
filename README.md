@@ -2,13 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&center=true&vCenter=true&width=435&lines=%E5%B7%A6%E6%89%8B%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%8F%B3%E6%89%8B%E8%AF%97" alt="Typing SVG" /></a>
 </p>
 
+ <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ## 🥱About me
-<div align="center">
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-</div>
 ## 📈Statistics
 
 <div align="center">
