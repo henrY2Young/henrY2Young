@@ -11,4 +11,7 @@
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henrY2Young" />
 </div>
+<div align="center">
+![Visitor Count](https://profile-counter.glitch.me/henrY2Young/count.svg)
+</div>
 
